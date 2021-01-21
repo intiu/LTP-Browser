@@ -1,0 +1,77 @@
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\obj\Debug\LTP_Browser.MainBrowser.resources
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\obj\Debug\LTP_Browser.Properties.Resources.resources
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\obj\Debug\LTP Browser.csproj.GenerateResource.cache
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\obj\Debug\LTP Browser.csproj.CoreCompileInputs.cache
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\LTP Browser.exe.config
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\LTP Browser.exe
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\LTP Browser.pdb
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\EasyTabs.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Guna.UI2.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Svg.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Win32Interop.Dwmapi.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Win32Interop.Gdi32.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Win32Interop.Kernel32.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Win32Interop.User32.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Win32Interop.Uxtheme.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\EasyTabs.xml
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Svg.xml
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Win32Interop.Dwmapi.pdb
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Win32Interop.Gdi32.pdb
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Win32Interop.Gdi32.xml
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Win32Interop.Kernel32.pdb
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Win32Interop.User32.pdb
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Win32Interop.Uxtheme.pdb
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\obj\Debug\LTP Browser.csproj.CopyComplete
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\obj\Debug\LTP Browser.exe
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\obj\Debug\LTP Browser.pdb
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\protobuf-net.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\protobuf-net.xml
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\obj\Debug\LTP Browser.csprojAssemblyReference.cache
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Fizzler.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Geckofx-Core.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Geckofx-Winforms.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\protobuf-net.Core.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\System.Buffers.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\System.Memory.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\System.ValueTuple.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Fizzler.pdb
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\protobuf-net.Core.xml
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\System.Buffers.xml
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\System.Memory.xml
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\System.ValueTuple.xml
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Google.Apis.Auth.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Google.Apis.Core.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Google.Apis.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\YoutubeExtractor.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Google.Apis.pdb
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Google.Apis.xml
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Google.Apis.Auth.xml
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Google.Apis.Core.pdb
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Google.Apis.Core.xml
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\YoutubeExtractor.xml
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\EntityFramework.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\System.Data.SQLite.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\EntityFramework.xml
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\bin\Debug\System.Data.SQLite.xml
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\obj\Debug\LTP_Browser.HistoryBrowser.resources
+C:\Users\ltpnt\source\repos\LTP Browser\LTP Browser\obj\Debug\LTP_Browser.About.resources
